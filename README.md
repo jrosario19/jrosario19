@@ -7,7 +7,7 @@ I am an Industrial Engineer with more than 15 years of experience in the field o
 
 Since my beginnings as an industrial engineer in 2004 I started programming macros in excel in order to automate tasks, then I realized that I had programming skills and then I started watching web programming tutorials while practicing developing some applications. then I took several programming courses at the Technological Institute of the Americas, these courses were an introduction to programming, C# Basic, and  C# Intermediate. 
 
-I am also an active student at Microverse Academic for the full-stack software developers.
+I also graduated at Microverse Academic for the full-stack software developers.
 
 ## Contact:
 - Email: jrosario19@hotmail.com
